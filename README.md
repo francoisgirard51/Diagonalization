@@ -16,4 +16,4 @@ Basic algorithm for finding an eigenvector and an eigenvalue of matrices
 
 **III/ Matrix Calculus with Python**
 
-Calculate the product Y = AX from the example given above and display the matrix `A` and the vectors `X` and `X`.
+Calculate the product Y = AX from the example given above and display the matrix `A` and the vectors `X` and `Y`.
