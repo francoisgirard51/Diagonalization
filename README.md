@@ -12,5 +12,5 @@ Build a basic algorithm for finding an eigenvector and an eigenvalue of matrices
 - Give approximate values of the eigenvalues of B.
 - Deduce the second eigenvalue of A and an associated eigenvector.
 
-## IV/ Matrix Calculus with Python
+## IV/ Matrix calculus with Python
 Calculate the product Y = AX from the example given above and display the matrix `A` and the vectors `X` and `Y`.
