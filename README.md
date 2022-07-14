@@ -1,4 +1,4 @@
-# I/ Objectives:
+## I/ Objectives:
 Build a basic algorithm for finding an eigenvector and an eigenvalue of matrices within the framework of a diagonalization exercice.
 
 ## II/ First version
